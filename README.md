@@ -27,5 +27,6 @@ Right now, I’m focusing on improving my:
 ## 🤝 How You Can Reach Me
 - *Email*: priyanshukhawas18@gmail.com
 - *LinkedIn*: https://www.linkedin.com/in/priyanshu-khawas-a35619270
+- *Medium*: https://medium.com/@priyanshu_89949
 
 Feel free to connect if you’d like to collaborate on projects or discuss cool tech ideas!
