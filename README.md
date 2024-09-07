@@ -25,9 +25,11 @@ I'm passionate about solving real-world problems and contributing to projects th
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu1035&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1035&layout=compact&theme=radical)
 
-## 🤝 How You Can Reach Me
-- *Email*: priyanshukhawas18@gmail.com
-- *LinkedIn*: https://www.linkedin.com/in/priyanshu-khawas-a35619270
-- *Medium*: https://medium.com/@priyanshu_89949
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-khawas-a35619270)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshu_89949)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukhawas18@gmail.com)
+
 
 Feel free to connect if you’d like to collaborate on projects or discuss cool tech ideas!
