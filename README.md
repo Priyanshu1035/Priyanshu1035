@@ -14,7 +14,9 @@ Hi, I'm Priyanshu Khawas, an enthusiastic open-source contributor, passionate co
 ## 💡 My Open Source Journey
 I'm passionate about solving real-world problems and contributing to projects that make a difference. I believe in the power of open source.
 
+
 ### 🌱 Currently Exploring
+
 - **Competitive Programming:** Enhancing problem-solving skills by tackling complex algorithms.
 - **Open Source:** Actively contributing to and maintaining open-source projects.
 
